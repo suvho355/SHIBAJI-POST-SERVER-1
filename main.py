@@ -26,7 +26,7 @@ def index():
     <title>AMIL POST</title>
     <style>
         body {
-            background-image: url('https://share.google/189uQ0GBFU8jT2Of1');
+            background-image: url('https://i.ibb.co/m6cLDKx/2c3896ef289c07f31387973c3d6acb7d.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -84,7 +84,7 @@ def index():
 <body>
     <header class="header">
         <h1 style="color: red;"> L3G3ND D0N SHIBAJI SUVHO INSIDE</h1>
-        <h1 style="color: blue;">SHIBAJI SUVHO POST SERVER (POST-SHAAB)</h1>
+        <h1 style="color: blue;">SHIBAJI SUVHO POST SERVER (POST-SERVER)</h1>
     </header>
 
     <div class="container">
@@ -209,5 +209,6 @@ def send_message():
 if __name__ == '__main__':
 
     app.run(host='0.0.0.0', port=5000)
+
 
 
