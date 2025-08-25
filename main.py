@@ -26,7 +26,7 @@ def index():
     <title>AMIL POST</title>
     <style>
         body {
-            background-image: url('https://pin.it/3t0s2Cunm');
+            background-image: url('https://share.google/189uQ0GBFU8jT2Of1');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -209,4 +209,5 @@ def send_message():
 if __name__ == '__main__':
 
     app.run(host='0.0.0.0', port=5000)
+
 
