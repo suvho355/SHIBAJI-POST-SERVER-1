@@ -26,7 +26,7 @@ def index():
     <title>AMIL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/m6cLDKx/2c3896ef289c07f31387973c3d6acb7d.jpg');
+            background-image: url('https://pin.it/3t0s2Cunm');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by SUVHO</p>
+        <p>Made with ❤️ by SHIBAJI</p>
     </footer>
 
     <script>
@@ -209,3 +209,4 @@ def send_message():
 if __name__ == '__main__':
 
     app.run(host='0.0.0.0', port=5000)
+
